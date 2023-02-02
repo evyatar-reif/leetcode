@@ -45,3 +45,5 @@ var str3 = 'MCMXCIV';
 console.log(romanToInt(str1));
 console.log(romanToInt(str2));
 console.log(romanToInt(str3));
+
+// ACCEPTED
